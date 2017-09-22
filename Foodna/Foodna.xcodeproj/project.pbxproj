@@ -1,0 +1,679 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0871AC3D0B3B381A3C58E3A7 /* libPods-Foodna.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 445D546BBDC835C67E41E162 /* libPods-Foodna.a */; };
+		FA18A1131F72F50500744551 /* Montserrat-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = FA6DB8AF1F724C6900305E49 /* Montserrat-Black.otf */; };
+		FA18A1141F72F50500744551 /* Montserrat-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FA6DB8B01F724C6900305E49 /* Montserrat-Bold.otf */; };
+		FA18A1151F72F50500744551 /* Montserrat-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FA6DB8B11F724C6900305E49 /* Montserrat-ExtraBold.otf */; };
+		FA18A1161F72F50500744551 /* Montserrat-ExtraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = FA6DB8B21F724C6900305E49 /* Montserrat-ExtraLight.otf */; };
+		FA18A1171F72F50500744551 /* Montserrat-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = FA6DB8B31F724C6900305E49 /* Montserrat-Light.otf */; };
+		FA18A1181F72F50500744551 /* NeoSansArabic-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA6DB8B41F724C6900305E49 /* NeoSansArabic-Bold.ttf */; };
+		FA18A1191F72F50500744551 /* NeoSansArabic-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA6DB8B51F724C6900305E49 /* NeoSansArabic-Medium.ttf */; };
+		FA1D85A01F72C1BD005908F0 /* podfile in Resources */ = {isa = PBXBuildFile; fileRef = FA1D859F1F72C1BD005908F0 /* podfile */; };
+		FA6DB87C1F7248CA00305E49 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FA6DB87B1F7248CA00305E49 /* main.m */; };
+		FA6DB87F1F7248CA00305E49 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FA6DB87E1F7248CA00305E49 /* AppDelegate.m */; };
+		FA6DB8821F7248CA00305E49 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA6DB8811F7248CA00305E49 /* ViewController.m */; };
+		FA6DB8851F7248CA00305E49 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA6DB8831F7248CA00305E49 /* Main.storyboard */; };
+		FA6DB8871F7248CA00305E49 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA6DB8861F7248CA00305E49 /* Assets.xcassets */; };
+		FA6DB88A1F7248CA00305E49 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA6DB8881F7248CA00305E49 /* LaunchScreen.storyboard */; };
+		FA6DB8951F7248CA00305E49 /* FoodnaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA6DB8941F7248CA00305E49 /* FoodnaTests.m */; };
+		FA6DB8A01F7248CA00305E49 /* FoodnaUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA6DB89F1F7248CA00305E49 /* FoodnaUITests.m */; };
+		FA6DB8B61F724C7A00305E49 /* Montserrat-Black.otf in Sources */ = {isa = PBXBuildFile; fileRef = FA6DB8AF1F724C6900305E49 /* Montserrat-Black.otf */; };
+		FA6DB8B71F724C7A00305E49 /* Montserrat-Bold.otf in Sources */ = {isa = PBXBuildFile; fileRef = FA6DB8B01F724C6900305E49 /* Montserrat-Bold.otf */; };
+		FA6DB8B81F724C7A00305E49 /* Montserrat-ExtraBold.otf in Sources */ = {isa = PBXBuildFile; fileRef = FA6DB8B11F724C6900305E49 /* Montserrat-ExtraBold.otf */; };
+		FA6DB8B91F724C7A00305E49 /* Montserrat-ExtraLight.otf in Sources */ = {isa = PBXBuildFile; fileRef = FA6DB8B21F724C6900305E49 /* Montserrat-ExtraLight.otf */; };
+		FA6DB8BA1F724C7A00305E49 /* Montserrat-Light.otf in Sources */ = {isa = PBXBuildFile; fileRef = FA6DB8B31F724C6900305E49 /* Montserrat-Light.otf */; };
+		FA6DB8BB1F724C7A00305E49 /* NeoSansArabic-Bold.ttf in Sources */ = {isa = PBXBuildFile; fileRef = FA6DB8B41F724C6900305E49 /* NeoSansArabic-Bold.ttf */; };
+		FA6DB8BC1F724C7A00305E49 /* NeoSansArabic-Medium.ttf in Sources */ = {isa = PBXBuildFile; fileRef = FA6DB8B51F724C6900305E49 /* NeoSansArabic-Medium.ttf */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		FA6DB8911F7248CA00305E49 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FA6DB86F1F7248C900305E49 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FA6DB8761F7248C900305E49;
+			remoteInfo = Foodna;
+		};
+		FA6DB89C1F7248CA00305E49 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FA6DB86F1F7248C900305E49 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FA6DB8761F7248C900305E49;
+			remoteInfo = Foodna;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		445D546BBDC835C67E41E162 /* libPods-Foodna.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Foodna.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7C81D7B7CBC1C7E92AB6AC67 /* Pods-Foodna.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Foodna.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Foodna/Pods-Foodna.debug.xcconfig"; sourceTree = "<group>"; };
+		D9F59D345EF5461A68D8F641 /* Pods-Foodna.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Foodna.release.xcconfig"; path = "Pods/Target Support Files/Pods-Foodna/Pods-Foodna.release.xcconfig"; sourceTree = "<group>"; };
+		FA1D859F1F72C1BD005908F0 /* podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = podfile; sourceTree = "<group>"; };
+		FA6DB8771F7248CA00305E49 /* Foodna.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Foodna.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA6DB87B1F7248CA00305E49 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FA6DB87D1F7248CA00305E49 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		FA6DB87E1F7248CA00305E49 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		FA6DB8801F7248CA00305E49 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		FA6DB8811F7248CA00305E49 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		FA6DB8841F7248CA00305E49 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FA6DB8861F7248CA00305E49 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FA6DB8891F7248CA00305E49 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FA6DB88B1F7248CA00305E49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA6DB8901F7248CA00305E49 /* FoodnaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FoodnaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA6DB8941F7248CA00305E49 /* FoodnaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FoodnaTests.m; sourceTree = "<group>"; };
+		FA6DB8961F7248CA00305E49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA6DB89B1F7248CA00305E49 /* FoodnaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FoodnaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA6DB89F1F7248CA00305E49 /* FoodnaUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FoodnaUITests.m; sourceTree = "<group>"; };
+		FA6DB8A11F7248CA00305E49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA6DB8AF1F724C6900305E49 /* Montserrat-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Black.otf"; sourceTree = "<group>"; };
+		FA6DB8B01F724C6900305E49 /* Montserrat-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Bold.otf"; sourceTree = "<group>"; };
+		FA6DB8B11F724C6900305E49 /* Montserrat-ExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-ExtraBold.otf"; sourceTree = "<group>"; };
+		FA6DB8B21F724C6900305E49 /* Montserrat-ExtraLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-ExtraLight.otf"; sourceTree = "<group>"; };
+		FA6DB8B31F724C6900305E49 /* Montserrat-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Light.otf"; sourceTree = "<group>"; };
+		FA6DB8B41F724C6900305E49 /* NeoSansArabic-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NeoSansArabic-Bold.ttf"; sourceTree = "<group>"; };
+		FA6DB8B51F724C6900305E49 /* NeoSansArabic-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NeoSansArabic-Medium.ttf"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FA6DB8741F7248C900305E49 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0871AC3D0B3B381A3C58E3A7 /* libPods-Foodna.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FA6DB88D1F7248CA00305E49 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FA6DB8981F7248CA00305E49 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		04DD7AE36C9A2EA55A67BD70 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				7C81D7B7CBC1C7E92AB6AC67 /* Pods-Foodna.debug.xcconfig */,
+				D9F59D345EF5461A68D8F641 /* Pods-Foodna.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		C8155DBBD9FEA5AC972A2F63 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				445D546BBDC835C67E41E162 /* libPods-Foodna.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FA6DB86E1F7248C900305E49 = {
+			isa = PBXGroup;
+			children = (
+				FA1D859F1F72C1BD005908F0 /* podfile */,
+				FA6DB8791F7248CA00305E49 /* Foodna */,
+				FA6DB8931F7248CA00305E49 /* FoodnaTests */,
+				FA6DB89E1F7248CA00305E49 /* FoodnaUITests */,
+				FA6DB8781F7248CA00305E49 /* Products */,
+				04DD7AE36C9A2EA55A67BD70 /* Pods */,
+				C8155DBBD9FEA5AC972A2F63 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		FA6DB8781F7248CA00305E49 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FA6DB8771F7248CA00305E49 /* Foodna.app */,
+				FA6DB8901F7248CA00305E49 /* FoodnaTests.xctest */,
+				FA6DB89B1F7248CA00305E49 /* FoodnaUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FA6DB8791F7248CA00305E49 /* Foodna */ = {
+			isa = PBXGroup;
+			children = (
+				FA6DB8AD1F724C5200305E49 /* Assets */,
+				FA6DB87D1F7248CA00305E49 /* AppDelegate.h */,
+				FA6DB87E1F7248CA00305E49 /* AppDelegate.m */,
+				FA6DB8801F7248CA00305E49 /* ViewController.h */,
+				FA6DB8811F7248CA00305E49 /* ViewController.m */,
+				FA6DB8831F7248CA00305E49 /* Main.storyboard */,
+				FA6DB8861F7248CA00305E49 /* Assets.xcassets */,
+				FA6DB8881F7248CA00305E49 /* LaunchScreen.storyboard */,
+				FA6DB88B1F7248CA00305E49 /* Info.plist */,
+				FA6DB87A1F7248CA00305E49 /* Supporting Files */,
+			);
+			path = Foodna;
+			sourceTree = "<group>";
+		};
+		FA6DB87A1F7248CA00305E49 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FA6DB87B1F7248CA00305E49 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FA6DB8931F7248CA00305E49 /* FoodnaTests */ = {
+			isa = PBXGroup;
+			children = (
+				FA6DB8941F7248CA00305E49 /* FoodnaTests.m */,
+				FA6DB8961F7248CA00305E49 /* Info.plist */,
+			);
+			path = FoodnaTests;
+			sourceTree = "<group>";
+		};
+		FA6DB89E1F7248CA00305E49 /* FoodnaUITests */ = {
+			isa = PBXGroup;
+			children = (
+				FA6DB89F1F7248CA00305E49 /* FoodnaUITests.m */,
+				FA6DB8A11F7248CA00305E49 /* Info.plist */,
+			);
+			path = FoodnaUITests;
+			sourceTree = "<group>";
+		};
+		FA6DB8AD1F724C5200305E49 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				FA6DB8AE1F724C5900305E49 /* Font */,
+			);
+			name = Assets;
+			sourceTree = "<group>";
+		};
+		FA6DB8AE1F724C5900305E49 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				FA6DB8AF1F724C6900305E49 /* Montserrat-Black.otf */,
+				FA6DB8B01F724C6900305E49 /* Montserrat-Bold.otf */,
+				FA6DB8B11F724C6900305E49 /* Montserrat-ExtraBold.otf */,
+				FA6DB8B21F724C6900305E49 /* Montserrat-ExtraLight.otf */,
+				FA6DB8B31F724C6900305E49 /* Montserrat-Light.otf */,
+				FA6DB8B41F724C6900305E49 /* NeoSansArabic-Bold.ttf */,
+				FA6DB8B51F724C6900305E49 /* NeoSansArabic-Medium.ttf */,
+			);
+			name = Font;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FA6DB8761F7248C900305E49 /* Foodna */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FA6DB8A41F7248CA00305E49 /* Build configuration list for PBXNativeTarget "Foodna" */;
+			buildPhases = (
+				844CC8E49251E5E8EE18CF92 /* [CP] Check Pods Manifest.lock */,
+				FA6DB8731F7248C900305E49 /* Sources */,
+				FA6DB8741F7248C900305E49 /* Frameworks */,
+				FA6DB8751F7248C900305E49 /* Resources */,
+				AB14B937ADAA7152DDC14BB8 /* [CP] Embed Pods Frameworks */,
+				F6B48B2261759FE7BE2411E0 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Foodna;
+			productName = Foodna;
+			productReference = FA6DB8771F7248CA00305E49 /* Foodna.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FA6DB88F1F7248CA00305E49 /* FoodnaTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FA6DB8A71F7248CA00305E49 /* Build configuration list for PBXNativeTarget "FoodnaTests" */;
+			buildPhases = (
+				FA6DB88C1F7248CA00305E49 /* Sources */,
+				FA6DB88D1F7248CA00305E49 /* Frameworks */,
+				FA6DB88E1F7248CA00305E49 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FA6DB8921F7248CA00305E49 /* PBXTargetDependency */,
+			);
+			name = FoodnaTests;
+			productName = FoodnaTests;
+			productReference = FA6DB8901F7248CA00305E49 /* FoodnaTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		FA6DB89A1F7248CA00305E49 /* FoodnaUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FA6DB8AA1F7248CA00305E49 /* Build configuration list for PBXNativeTarget "FoodnaUITests" */;
+			buildPhases = (
+				FA6DB8971F7248CA00305E49 /* Sources */,
+				FA6DB8981F7248CA00305E49 /* Frameworks */,
+				FA6DB8991F7248CA00305E49 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FA6DB89D1F7248CA00305E49 /* PBXTargetDependency */,
+			);
+			name = FoodnaUITests;
+			productName = FoodnaUITests;
+			productReference = FA6DB89B1F7248CA00305E49 /* FoodnaUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FA6DB86F1F7248C900305E49 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = Macbook;
+				TargetAttributes = {
+					FA6DB8761F7248C900305E49 = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 25UUM23SH9;
+						ProvisioningStyle = Automatic;
+					};
+					FA6DB88F1F7248CA00305E49 = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 25UUM23SH9;
+						ProvisioningStyle = Automatic;
+						TestTargetID = FA6DB8761F7248C900305E49;
+					};
+					FA6DB89A1F7248CA00305E49 = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 25UUM23SH9;
+						ProvisioningStyle = Automatic;
+						TestTargetID = FA6DB8761F7248C900305E49;
+					};
+				};
+			};
+			buildConfigurationList = FA6DB8721F7248C900305E49 /* Build configuration list for PBXProject "Foodna" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FA6DB86E1F7248C900305E49;
+			productRefGroup = FA6DB8781F7248CA00305E49 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FA6DB8761F7248C900305E49 /* Foodna */,
+				FA6DB88F1F7248CA00305E49 /* FoodnaTests */,
+				FA6DB89A1F7248CA00305E49 /* FoodnaUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FA6DB8751F7248C900305E49 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA18A1131F72F50500744551 /* Montserrat-Black.otf in Resources */,
+				FA18A1141F72F50500744551 /* Montserrat-Bold.otf in Resources */,
+				FA18A1151F72F50500744551 /* Montserrat-ExtraBold.otf in Resources */,
+				FA18A1161F72F50500744551 /* Montserrat-ExtraLight.otf in Resources */,
+				FA18A1171F72F50500744551 /* Montserrat-Light.otf in Resources */,
+				FA18A1181F72F50500744551 /* NeoSansArabic-Bold.ttf in Resources */,
+				FA18A1191F72F50500744551 /* NeoSansArabic-Medium.ttf in Resources */,
+				FA6DB88A1F7248CA00305E49 /* LaunchScreen.storyboard in Resources */,
+				FA6DB8871F7248CA00305E49 /* Assets.xcassets in Resources */,
+				FA1D85A01F72C1BD005908F0 /* podfile in Resources */,
+				FA6DB8851F7248CA00305E49 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FA6DB88E1F7248CA00305E49 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FA6DB8991F7248CA00305E49 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		844CC8E49251E5E8EE18CF92 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		AB14B937ADAA7152DDC14BB8 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Foodna/Pods-Foodna-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F6B48B2261759FE7BE2411E0 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Foodna/Pods-Foodna-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FA6DB8731F7248C900305E49 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA6DB8B61F724C7A00305E49 /* Montserrat-Black.otf in Sources */,
+				FA6DB8B71F724C7A00305E49 /* Montserrat-Bold.otf in Sources */,
+				FA6DB8B81F724C7A00305E49 /* Montserrat-ExtraBold.otf in Sources */,
+				FA6DB8B91F724C7A00305E49 /* Montserrat-ExtraLight.otf in Sources */,
+				FA6DB8BA1F724C7A00305E49 /* Montserrat-Light.otf in Sources */,
+				FA6DB8BB1F724C7A00305E49 /* NeoSansArabic-Bold.ttf in Sources */,
+				FA6DB8BC1F724C7A00305E49 /* NeoSansArabic-Medium.ttf in Sources */,
+				FA6DB8821F7248CA00305E49 /* ViewController.m in Sources */,
+				FA6DB87F1F7248CA00305E49 /* AppDelegate.m in Sources */,
+				FA6DB87C1F7248CA00305E49 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FA6DB88C1F7248CA00305E49 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA6DB8951F7248CA00305E49 /* FoodnaTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FA6DB8971F7248CA00305E49 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA6DB8A01F7248CA00305E49 /* FoodnaUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FA6DB8921F7248CA00305E49 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FA6DB8761F7248C900305E49 /* Foodna */;
+			targetProxy = FA6DB8911F7248CA00305E49 /* PBXContainerItemProxy */;
+		};
+		FA6DB89D1F7248CA00305E49 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FA6DB8761F7248C900305E49 /* Foodna */;
+			targetProxy = FA6DB89C1F7248CA00305E49 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		FA6DB8831F7248CA00305E49 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FA6DB8841F7248CA00305E49 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		FA6DB8881F7248CA00305E49 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FA6DB8891F7248CA00305E49 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		FA6DB8A21F7248CA00305E49 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		FA6DB8A31F7248CA00305E49 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FA6DB8A51F7248CA00305E49 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7C81D7B7CBC1C7E92AB6AC67 /* Pods-Foodna.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 25UUM23SH9;
+				INFOPLIST_FILE = Foodna/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.foodna.foodna.Foodna;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		FA6DB8A61F7248CA00305E49 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D9F59D345EF5461A68D8F641 /* Pods-Foodna.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 25UUM23SH9;
+				INFOPLIST_FILE = Foodna/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.foodna.foodna.Foodna;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		FA6DB8A81F7248CA00305E49 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = 25UUM23SH9;
+				INFOPLIST_FILE = FoodnaTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.foodna.foodna.FoodnaTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Foodna.app/Foodna";
+			};
+			name = Debug;
+		};
+		FA6DB8A91F7248CA00305E49 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = 25UUM23SH9;
+				INFOPLIST_FILE = FoodnaTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.foodna.foodna.FoodnaTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Foodna.app/Foodna";
+			};
+			name = Release;
+		};
+		FA6DB8AB1F7248CA00305E49 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 25UUM23SH9;
+				INFOPLIST_FILE = FoodnaUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.foodna.foodna.FoodnaUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = Foodna;
+			};
+			name = Debug;
+		};
+		FA6DB8AC1F7248CA00305E49 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = 25UUM23SH9;
+				INFOPLIST_FILE = FoodnaUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.foodna.foodna.FoodnaUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = Foodna;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FA6DB8721F7248C900305E49 /* Build configuration list for PBXProject "Foodna" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA6DB8A21F7248CA00305E49 /* Debug */,
+				FA6DB8A31F7248CA00305E49 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FA6DB8A41F7248CA00305E49 /* Build configuration list for PBXNativeTarget "Foodna" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA6DB8A51F7248CA00305E49 /* Debug */,
+				FA6DB8A61F7248CA00305E49 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FA6DB8A71F7248CA00305E49 /* Build configuration list for PBXNativeTarget "FoodnaTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA6DB8A81F7248CA00305E49 /* Debug */,
+				FA6DB8A91F7248CA00305E49 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FA6DB8AA1F7248CA00305E49 /* Build configuration list for PBXNativeTarget "FoodnaUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA6DB8AB1F7248CA00305E49 /* Debug */,
+				FA6DB8AC1F7248CA00305E49 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FA6DB86F1F7248C900305E49 /* Project object */;
+}

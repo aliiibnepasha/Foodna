@@ -1,0 +1,13 @@
+
+target "Foodna" do
+
+
+pod 'TPKeyboardAvoiding'
+pod 'SpinKit'
+pod 'SDWebImage'
+pod 'CWStatusBarNotification'
+pod 'MBCircularProgressBar'
+
+
+
+end

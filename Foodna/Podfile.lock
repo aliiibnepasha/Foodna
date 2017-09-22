@@ -1,0 +1,26 @@
+PODS:
+  - CWStatusBarNotification (2.3.5)
+  - MBCircularProgressBar (0.3.5)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - SpinKit (1.2.0)
+  - TPKeyboardAvoiding (1.3.1)
+
+DEPENDENCIES:
+  - CWStatusBarNotification
+  - MBCircularProgressBar
+  - SDWebImage
+  - SpinKit
+  - TPKeyboardAvoiding
+
+SPEC CHECKSUMS:
+  CWStatusBarNotification: 3d2738b25c3207f60cc50201388d3c96182545ff
+  MBCircularProgressBar: 0b795b722a5eb5b0923822f90474e2576a1a7855
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  SpinKit: 65906a8b534a4e14cbfd3f8b0b6c329131faef4a
+  TPKeyboardAvoiding: 0d6af20e95e2850f4c621841225b59ec7d8dd852
+
+PODFILE CHECKSUM: a139003787c21fdd5a4f4c31685314bb741e6dc1
+
+COCOAPODS: 1.2.0
