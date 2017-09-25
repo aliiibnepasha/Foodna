@@ -8,6 +8,18 @@
 
 /* Begin PBXBuildFile section */
 		0871AC3D0B3B381A3C58E3A7 /* libPods-Foodna.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 445D546BBDC835C67E41E162 /* libPods-Foodna.a */; };
+		FA092D2C1F77B06A00F744ED /* HCSStarRatingView.m in Sources */ = {isa = PBXBuildFile; fileRef = FA092D2B1F77B06A00F744ED /* HCSStarRatingView.m */; };
+		FA092D381F77B1AF00F744ED /* SideMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA092D331F77B1AF00F744ED /* SideMenuViewController.m */; };
+		FA092D3D1F77B9B400F744ED /* MenuCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FA092D3C1F77B9B400F744ED /* MenuCell.m */; };
+		FA092D411F77C4C900F744ED /* LoginVC.m in Sources */ = {isa = PBXBuildFile; fileRef = FA092D401F77C4C900F744ED /* LoginVC.m */; };
+		FA092D431F77D1F800F744ED /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA092D421F77D1F800F744ED /* QuartzCore.framework */; };
+		FA092D461F77D28000F744ED /* EventKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA092D441F77D27F00F744ED /* EventKit.framework */; };
+		FA092D471F77D28000F744ED /* EventKitUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA092D451F77D28000F744ED /* EventKitUI.framework */; };
+		FA092D491F77D28A00F744ED /* AssetsLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA092D481F77D28A00F744ED /* AssetsLibrary.framework */; };
+		FA092D4B1F77D29100F744ED /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA092D4A1F77D29100F744ED /* SystemConfiguration.framework */; };
+		FA092D531F77D35600F744ED /* MFSideMenuContainerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA092D4E1F77D35600F744ED /* MFSideMenuContainerViewController.m */; };
+		FA092D541F77D35600F744ED /* MFSideMenuShadow.m in Sources */ = {isa = PBXBuildFile; fileRef = FA092D501F77D35600F744ED /* MFSideMenuShadow.m */; };
+		FA092D551F77D35600F744ED /* UIViewController+MFSideMenuAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = FA092D521F77D35600F744ED /* UIViewController+MFSideMenuAdditions.m */; };
 		FA18A1131F72F50500744551 /* Montserrat-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = FA6DB8AF1F724C6900305E49 /* Montserrat-Black.otf */; };
 		FA18A1141F72F50500744551 /* Montserrat-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FA6DB8B01F724C6900305E49 /* Montserrat-Bold.otf */; };
 		FA18A1151F72F50500744551 /* Montserrat-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FA6DB8B11F724C6900305E49 /* Montserrat-ExtraBold.otf */; };
@@ -31,6 +43,35 @@
 		FA6DB8BA1F724C7A00305E49 /* Montserrat-Light.otf in Sources */ = {isa = PBXBuildFile; fileRef = FA6DB8B31F724C6900305E49 /* Montserrat-Light.otf */; };
 		FA6DB8BB1F724C7A00305E49 /* NeoSansArabic-Bold.ttf in Sources */ = {isa = PBXBuildFile; fileRef = FA6DB8B41F724C6900305E49 /* NeoSansArabic-Bold.ttf */; };
 		FA6DB8BC1F724C7A00305E49 /* NeoSansArabic-Medium.ttf in Sources */ = {isa = PBXBuildFile; fileRef = FA6DB8B51F724C6900305E49 /* NeoSansArabic-Medium.ttf */; };
+		FA7B70BB1F78001D00EAF8C3 /* SettingsVC.m in Sources */ = {isa = PBXBuildFile; fileRef = FA7B70BA1F78001D00EAF8C3 /* SettingsVC.m */; };
+		FA7B70BF1F7822B900EAF8C3 /* AboutFoodnaVC.m in Sources */ = {isa = PBXBuildFile; fileRef = FA7B70BE1F7822B900EAF8C3 /* AboutFoodnaVC.m */; };
+		FA7B70C31F7828EB00EAF8C3 /* HVTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = FA7B70C21F7828EB00EAF8C3 /* HVTableView.m */; };
+		FA7B70C71F78292300EAF8C3 /* SelectAddressVC.m in Sources */ = {isa = PBXBuildFile; fileRef = FA7B70C61F78292300EAF8C3 /* SelectAddressVC.m */; };
+		FA7B70CA1F78293F00EAF8C3 /* AddressCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FA7B70C91F78293F00EAF8C3 /* AddressCell.m */; };
+		FA7B70CE1F78297A00EAF8C3 /* RestaurantVC.m in Sources */ = {isa = PBXBuildFile; fileRef = FA7B70CD1F78297A00EAF8C3 /* RestaurantVC.m */; };
+		FA7B70D11F78299C00EAF8C3 /* RestaurantCourseCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FA7B70D01F78299C00EAF8C3 /* RestaurantCourseCell.m */; };
+		FA7B70D41F7829AA00EAF8C3 /* CourseDetailCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FA7B70D31F7829AA00EAF8C3 /* CourseDetailCell.m */; };
+		FA7B70D81F7840E800EAF8C3 /* FAQVC.m in Sources */ = {isa = PBXBuildFile; fileRef = FA7B70D71F7840E800EAF8C3 /* FAQVC.m */; };
+		FA9B9CB51F757074004DA5C8 /* HomeVC.m in Sources */ = {isa = PBXBuildFile; fileRef = FA9B9CB41F757074004DA5C8 /* HomeVC.m */; };
+		FA9B9CB91F7571C1004DA5C8 /* OrderVC.m in Sources */ = {isa = PBXBuildFile; fileRef = FA9B9CB81F7571C1004DA5C8 /* OrderVC.m */; };
+		FA9B9CBD1F7571E0004DA5C8 /* FilterVC.m in Sources */ = {isa = PBXBuildFile; fileRef = FA9B9CBC1F7571E0004DA5C8 /* FilterVC.m */; };
+		FA9B9CC01F7573E9004DA5C8 /* HomeCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FA9B9CBF1F7573E9004DA5C8 /* HomeCell.m */; };
+		FA9B9CC21F7574E7004DA5C8 /* Jacks_Creek_BURGER_by_Gold_Coast_Brisbane_Food_Photographer_Paul_Williams.png in Resources */ = {isa = PBXBuildFile; fileRef = FA9B9CC11F7574E7004DA5C8 /* Jacks_Creek_BURGER_by_Gold_Coast_Brisbane_Food_Photographer_Paul_Williams.png */; };
+		FA9B9CC51F757A66004DA5C8 /* OrderCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FA9B9CC41F757A66004DA5C8 /* OrderCell.m */; };
+		FA9B9CD51F757F76004DA5C8 /* Montserrat-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = FA9B9CC81F757F76004DA5C8 /* Montserrat-Medium.otf */; };
+		FA9B9CD61F757F76004DA5C8 /* Montserrat-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = FA9B9CC91F757F76004DA5C8 /* Montserrat-Regular.otf */; };
+		FA9B9CD71F757F76004DA5C8 /* Montserrat-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FA9B9CCA1F757F76004DA5C8 /* Montserrat-SemiBold.otf */; };
+		FA9B9CD81F757F76004DA5C8 /* Montserrat-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = FA9B9CCB1F757F76004DA5C8 /* Montserrat-Thin.otf */; };
+		FA9B9CD91F757F76004DA5C8 /* MontserratAlternates-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = FA9B9CCC1F757F76004DA5C8 /* MontserratAlternates-Black.otf */; };
+		FA9B9CDA1F757F76004DA5C8 /* MontserratAlternates-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FA9B9CCD1F757F76004DA5C8 /* MontserratAlternates-Bold.otf */; };
+		FA9B9CDB1F757F76004DA5C8 /* MontserratAlternates-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FA9B9CCE1F757F76004DA5C8 /* MontserratAlternates-ExtraBold.otf */; };
+		FA9B9CDC1F757F76004DA5C8 /* MontserratAlternates-ExtraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = FA9B9CCF1F757F76004DA5C8 /* MontserratAlternates-ExtraLight.otf */; };
+		FA9B9CDD1F757F76004DA5C8 /* MontserratAlternates-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = FA9B9CD01F757F76004DA5C8 /* MontserratAlternates-Light.otf */; };
+		FA9B9CDE1F757F76004DA5C8 /* MontserratAlternates-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = FA9B9CD11F757F76004DA5C8 /* MontserratAlternates-Medium.otf */; };
+		FA9B9CDF1F757F76004DA5C8 /* MontserratAlternates-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = FA9B9CD21F757F76004DA5C8 /* MontserratAlternates-Regular.otf */; };
+		FA9B9CE01F757F76004DA5C8 /* MontserratAlternates-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FA9B9CD31F757F76004DA5C8 /* MontserratAlternates-SemiBold.otf */; };
+		FA9B9CE11F757F76004DA5C8 /* MontserratAlternates-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = FA9B9CD41F757F76004DA5C8 /* MontserratAlternates-Thin.otf */; };
+		FA9B9CE41F758CCD004DA5C8 /* FilterCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FA9B9CE31F758CCD004DA5C8 /* FilterCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +95,26 @@
 		445D546BBDC835C67E41E162 /* libPods-Foodna.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Foodna.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C81D7B7CBC1C7E92AB6AC67 /* Pods-Foodna.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Foodna.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Foodna/Pods-Foodna.debug.xcconfig"; sourceTree = "<group>"; };
 		D9F59D345EF5461A68D8F641 /* Pods-Foodna.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Foodna.release.xcconfig"; path = "Pods/Target Support Files/Pods-Foodna/Pods-Foodna.release.xcconfig"; sourceTree = "<group>"; };
+		FA092D2A1F77B06A00F744ED /* HCSStarRatingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HCSStarRatingView.h; sourceTree = "<group>"; };
+		FA092D2B1F77B06A00F744ED /* HCSStarRatingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HCSStarRatingView.m; sourceTree = "<group>"; };
+		FA092D321F77B1AF00F744ED /* SideMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SideMenuViewController.h; sourceTree = "<group>"; };
+		FA092D331F77B1AF00F744ED /* SideMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SideMenuViewController.m; sourceTree = "<group>"; };
+		FA092D3B1F77B9B400F744ED /* MenuCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MenuCell.h; sourceTree = "<group>"; };
+		FA092D3C1F77B9B400F744ED /* MenuCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MenuCell.m; sourceTree = "<group>"; };
+		FA092D3F1F77C4C900F744ED /* LoginVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginVC.h; sourceTree = "<group>"; };
+		FA092D401F77C4C900F744ED /* LoginVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginVC.m; sourceTree = "<group>"; };
+		FA092D421F77D1F800F744ED /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		FA092D441F77D27F00F744ED /* EventKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = EventKit.framework; path = System/Library/Frameworks/EventKit.framework; sourceTree = SDKROOT; };
+		FA092D451F77D28000F744ED /* EventKitUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = EventKitUI.framework; path = System/Library/Frameworks/EventKitUI.framework; sourceTree = SDKROOT; };
+		FA092D481F77D28A00F744ED /* AssetsLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AssetsLibrary.framework; path = System/Library/Frameworks/AssetsLibrary.framework; sourceTree = SDKROOT; };
+		FA092D4A1F77D29100F744ED /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		FA092D4C1F77D35600F744ED /* MFSideMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MFSideMenu.h; sourceTree = "<group>"; };
+		FA092D4D1F77D35600F744ED /* MFSideMenuContainerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MFSideMenuContainerViewController.h; sourceTree = "<group>"; };
+		FA092D4E1F77D35600F744ED /* MFSideMenuContainerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MFSideMenuContainerViewController.m; sourceTree = "<group>"; };
+		FA092D4F1F77D35600F744ED /* MFSideMenuShadow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MFSideMenuShadow.h; sourceTree = "<group>"; };
+		FA092D501F77D35600F744ED /* MFSideMenuShadow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MFSideMenuShadow.m; sourceTree = "<group>"; };
+		FA092D511F77D35600F744ED /* UIViewController+MFSideMenuAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+MFSideMenuAdditions.h"; sourceTree = "<group>"; };
+		FA092D521F77D35600F744ED /* UIViewController+MFSideMenuAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+MFSideMenuAdditions.m"; sourceTree = "<group>"; };
 		FA1D859F1F72C1BD005908F0 /* podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = podfile; sourceTree = "<group>"; };
 		FA6DB8771F7248CA00305E49 /* Foodna.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Foodna.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA6DB87B1F7248CA00305E49 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -78,6 +139,50 @@
 		FA6DB8B31F724C6900305E49 /* Montserrat-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Light.otf"; sourceTree = "<group>"; };
 		FA6DB8B41F724C6900305E49 /* NeoSansArabic-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NeoSansArabic-Bold.ttf"; sourceTree = "<group>"; };
 		FA6DB8B51F724C6900305E49 /* NeoSansArabic-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NeoSansArabic-Medium.ttf"; sourceTree = "<group>"; };
+		FA7B70B91F78001D00EAF8C3 /* SettingsVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsVC.h; sourceTree = "<group>"; };
+		FA7B70BA1F78001D00EAF8C3 /* SettingsVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsVC.m; sourceTree = "<group>"; };
+		FA7B70BD1F7822B900EAF8C3 /* AboutFoodnaVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutFoodnaVC.h; sourceTree = "<group>"; };
+		FA7B70BE1F7822B900EAF8C3 /* AboutFoodnaVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AboutFoodnaVC.m; sourceTree = "<group>"; };
+		FA7B70C11F7828EB00EAF8C3 /* HVTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HVTableView.h; sourceTree = "<group>"; };
+		FA7B70C21F7828EB00EAF8C3 /* HVTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HVTableView.m; sourceTree = "<group>"; };
+		FA7B70C51F78292300EAF8C3 /* SelectAddressVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelectAddressVC.h; sourceTree = "<group>"; };
+		FA7B70C61F78292300EAF8C3 /* SelectAddressVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectAddressVC.m; sourceTree = "<group>"; };
+		FA7B70C81F78293F00EAF8C3 /* AddressCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddressCell.h; sourceTree = "<group>"; };
+		FA7B70C91F78293F00EAF8C3 /* AddressCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddressCell.m; sourceTree = "<group>"; };
+		FA7B70CC1F78297A00EAF8C3 /* RestaurantVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RestaurantVC.h; sourceTree = "<group>"; };
+		FA7B70CD1F78297A00EAF8C3 /* RestaurantVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RestaurantVC.m; sourceTree = "<group>"; };
+		FA7B70CF1F78299C00EAF8C3 /* RestaurantCourseCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RestaurantCourseCell.h; sourceTree = "<group>"; };
+		FA7B70D01F78299C00EAF8C3 /* RestaurantCourseCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RestaurantCourseCell.m; sourceTree = "<group>"; };
+		FA7B70D21F7829AA00EAF8C3 /* CourseDetailCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CourseDetailCell.h; sourceTree = "<group>"; };
+		FA7B70D31F7829AA00EAF8C3 /* CourseDetailCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CourseDetailCell.m; sourceTree = "<group>"; };
+		FA7B70D61F7840E800EAF8C3 /* FAQVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FAQVC.h; sourceTree = "<group>"; };
+		FA7B70D71F7840E800EAF8C3 /* FAQVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FAQVC.m; sourceTree = "<group>"; };
+		FA9B9CB31F757074004DA5C8 /* HomeVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeVC.h; sourceTree = "<group>"; };
+		FA9B9CB41F757074004DA5C8 /* HomeVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeVC.m; sourceTree = "<group>"; };
+		FA9B9CB71F7571C1004DA5C8 /* OrderVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrderVC.h; sourceTree = "<group>"; };
+		FA9B9CB81F7571C1004DA5C8 /* OrderVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OrderVC.m; sourceTree = "<group>"; };
+		FA9B9CBB1F7571E0004DA5C8 /* FilterVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FilterVC.h; sourceTree = "<group>"; };
+		FA9B9CBC1F7571E0004DA5C8 /* FilterVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FilterVC.m; sourceTree = "<group>"; };
+		FA9B9CBE1F7573E9004DA5C8 /* HomeCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeCell.h; sourceTree = "<group>"; };
+		FA9B9CBF1F7573E9004DA5C8 /* HomeCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeCell.m; sourceTree = "<group>"; };
+		FA9B9CC11F7574E7004DA5C8 /* Jacks_Creek_BURGER_by_Gold_Coast_Brisbane_Food_Photographer_Paul_Williams.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Jacks_Creek_BURGER_by_Gold_Coast_Brisbane_Food_Photographer_Paul_Williams.png; sourceTree = "<group>"; };
+		FA9B9CC31F757A66004DA5C8 /* OrderCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrderCell.h; sourceTree = "<group>"; };
+		FA9B9CC41F757A66004DA5C8 /* OrderCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OrderCell.m; sourceTree = "<group>"; };
+		FA9B9CC81F757F76004DA5C8 /* Montserrat-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Medium.otf"; sourceTree = "<group>"; };
+		FA9B9CC91F757F76004DA5C8 /* Montserrat-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Regular.otf"; sourceTree = "<group>"; };
+		FA9B9CCA1F757F76004DA5C8 /* Montserrat-SemiBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-SemiBold.otf"; sourceTree = "<group>"; };
+		FA9B9CCB1F757F76004DA5C8 /* Montserrat-Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Thin.otf"; sourceTree = "<group>"; };
+		FA9B9CCC1F757F76004DA5C8 /* MontserratAlternates-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MontserratAlternates-Black.otf"; sourceTree = "<group>"; };
+		FA9B9CCD1F757F76004DA5C8 /* MontserratAlternates-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MontserratAlternates-Bold.otf"; sourceTree = "<group>"; };
+		FA9B9CCE1F757F76004DA5C8 /* MontserratAlternates-ExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MontserratAlternates-ExtraBold.otf"; sourceTree = "<group>"; };
+		FA9B9CCF1F757F76004DA5C8 /* MontserratAlternates-ExtraLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MontserratAlternates-ExtraLight.otf"; sourceTree = "<group>"; };
+		FA9B9CD01F757F76004DA5C8 /* MontserratAlternates-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MontserratAlternates-Light.otf"; sourceTree = "<group>"; };
+		FA9B9CD11F757F76004DA5C8 /* MontserratAlternates-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MontserratAlternates-Medium.otf"; sourceTree = "<group>"; };
+		FA9B9CD21F757F76004DA5C8 /* MontserratAlternates-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MontserratAlternates-Regular.otf"; sourceTree = "<group>"; };
+		FA9B9CD31F757F76004DA5C8 /* MontserratAlternates-SemiBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MontserratAlternates-SemiBold.otf"; sourceTree = "<group>"; };
+		FA9B9CD41F757F76004DA5C8 /* MontserratAlternates-Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MontserratAlternates-Thin.otf"; sourceTree = "<group>"; };
+		FA9B9CE21F758CCD004DA5C8 /* FilterCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FilterCell.h; sourceTree = "<group>"; };
+		FA9B9CE31F758CCD004DA5C8 /* FilterCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FilterCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +190,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA092D4B1F77D29100F744ED /* SystemConfiguration.framework in Frameworks */,
+				FA092D491F77D28A00F744ED /* AssetsLibrary.framework in Frameworks */,
+				FA092D461F77D28000F744ED /* EventKit.framework in Frameworks */,
+				FA092D471F77D28000F744ED /* EventKitUI.framework in Frameworks */,
+				FA092D431F77D1F800F744ED /* QuartzCore.framework in Frameworks */,
 				0871AC3D0B3B381A3C58E3A7 /* libPods-Foodna.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -118,9 +228,60 @@
 		C8155DBBD9FEA5AC972A2F63 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				FA092D4A1F77D29100F744ED /* SystemConfiguration.framework */,
+				FA092D481F77D28A00F744ED /* AssetsLibrary.framework */,
+				FA092D441F77D27F00F744ED /* EventKit.framework */,
+				FA092D451F77D28000F744ED /* EventKitUI.framework */,
+				FA092D421F77D1F800F744ED /* QuartzCore.framework */,
 				445D546BBDC835C67E41E162 /* libPods-Foodna.a */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FA092D281F77B05000F744ED /* Custom Libraries */ = {
+			isa = PBXGroup;
+			children = (
+				FA7B70C01F7828CD00EAF8C3 /* HVTableView */,
+				FA092D3A1F77B38100F744ED /* MF Side Menu */,
+				FA092D291F77B05D00F744ED /* HC Starview */,
+			);
+			name = "Custom Libraries";
+			sourceTree = "<group>";
+		};
+		FA092D291F77B05D00F744ED /* HC Starview */ = {
+			isa = PBXGroup;
+			children = (
+				FA092D2A1F77B06A00F744ED /* HCSStarRatingView.h */,
+				FA092D2B1F77B06A00F744ED /* HCSStarRatingView.m */,
+			);
+			name = "HC Starview";
+			sourceTree = "<group>";
+		};
+		FA092D3A1F77B38100F744ED /* MF Side Menu */ = {
+			isa = PBXGroup;
+			children = (
+				FA092D3B1F77B9B400F744ED /* MenuCell.h */,
+				FA092D3C1F77B9B400F744ED /* MenuCell.m */,
+				FA092D321F77B1AF00F744ED /* SideMenuViewController.h */,
+				FA092D331F77B1AF00F744ED /* SideMenuViewController.m */,
+				FA092D4C1F77D35600F744ED /* MFSideMenu.h */,
+				FA092D4D1F77D35600F744ED /* MFSideMenuContainerViewController.h */,
+				FA092D4E1F77D35600F744ED /* MFSideMenuContainerViewController.m */,
+				FA092D4F1F77D35600F744ED /* MFSideMenuShadow.h */,
+				FA092D501F77D35600F744ED /* MFSideMenuShadow.m */,
+				FA092D511F77D35600F744ED /* UIViewController+MFSideMenuAdditions.h */,
+				FA092D521F77D35600F744ED /* UIViewController+MFSideMenuAdditions.m */,
+			);
+			name = "MF Side Menu";
+			sourceTree = "<group>";
+		};
+		FA092D3E1F77C4AB00F744ED /* Login VC */ = {
+			isa = PBXGroup;
+			children = (
+				FA092D3F1F77C4C900F744ED /* LoginVC.h */,
+				FA092D401F77C4C900F744ED /* LoginVC.m */,
+			);
+			name = "Login VC";
 			sourceTree = "<group>";
 		};
 		FA6DB86E1F7248C900305E49 = {
@@ -149,6 +310,8 @@
 		FA6DB8791F7248CA00305E49 /* Foodna */ = {
 			isa = PBXGroup;
 			children = (
+				FA092D281F77B05000F744ED /* Custom Libraries */,
+				FA9B9CB11F757043004DA5C8 /* View Controllers */,
 				FA6DB8AD1F724C5200305E49 /* Assets */,
 				FA6DB87D1F7248CA00305E49 /* AppDelegate.h */,
 				FA6DB87E1F7248CA00305E49 /* AppDelegate.m */,
@@ -200,6 +363,19 @@
 		FA6DB8AE1F724C5900305E49 /* Font */ = {
 			isa = PBXGroup;
 			children = (
+				FA9B9CC81F757F76004DA5C8 /* Montserrat-Medium.otf */,
+				FA9B9CC91F757F76004DA5C8 /* Montserrat-Regular.otf */,
+				FA9B9CCA1F757F76004DA5C8 /* Montserrat-SemiBold.otf */,
+				FA9B9CCB1F757F76004DA5C8 /* Montserrat-Thin.otf */,
+				FA9B9CCC1F757F76004DA5C8 /* MontserratAlternates-Black.otf */,
+				FA9B9CCD1F757F76004DA5C8 /* MontserratAlternates-Bold.otf */,
+				FA9B9CCE1F757F76004DA5C8 /* MontserratAlternates-ExtraBold.otf */,
+				FA9B9CCF1F757F76004DA5C8 /* MontserratAlternates-ExtraLight.otf */,
+				FA9B9CD01F757F76004DA5C8 /* MontserratAlternates-Light.otf */,
+				FA9B9CD11F757F76004DA5C8 /* MontserratAlternates-Medium.otf */,
+				FA9B9CD21F757F76004DA5C8 /* MontserratAlternates-Regular.otf */,
+				FA9B9CD31F757F76004DA5C8 /* MontserratAlternates-SemiBold.otf */,
+				FA9B9CD41F757F76004DA5C8 /* MontserratAlternates-Thin.otf */,
 				FA6DB8AF1F724C6900305E49 /* Montserrat-Black.otf */,
 				FA6DB8B01F724C6900305E49 /* Montserrat-Bold.otf */,
 				FA6DB8B11F724C6900305E49 /* Montserrat-ExtraBold.otf */,
@@ -209,6 +385,116 @@
 				FA6DB8B51F724C6900305E49 /* NeoSansArabic-Medium.ttf */,
 			);
 			name = Font;
+			sourceTree = "<group>";
+		};
+		FA7B70B81F77FCB500EAF8C3 /* Settings VC */ = {
+			isa = PBXGroup;
+			children = (
+				FA7B70B91F78001D00EAF8C3 /* SettingsVC.h */,
+				FA7B70BA1F78001D00EAF8C3 /* SettingsVC.m */,
+			);
+			name = "Settings VC";
+			sourceTree = "<group>";
+		};
+		FA7B70BC1F7822A300EAF8C3 /* About Foodna VC */ = {
+			isa = PBXGroup;
+			children = (
+				FA7B70BD1F7822B900EAF8C3 /* AboutFoodnaVC.h */,
+				FA7B70BE1F7822B900EAF8C3 /* AboutFoodnaVC.m */,
+			);
+			name = "About Foodna VC";
+			sourceTree = "<group>";
+		};
+		FA7B70C01F7828CD00EAF8C3 /* HVTableView */ = {
+			isa = PBXGroup;
+			children = (
+				FA7B70C11F7828EB00EAF8C3 /* HVTableView.h */,
+				FA7B70C21F7828EB00EAF8C3 /* HVTableView.m */,
+			);
+			name = HVTableView;
+			sourceTree = "<group>";
+		};
+		FA7B70C41F78290E00EAF8C3 /* Select Address VC */ = {
+			isa = PBXGroup;
+			children = (
+				FA7B70C51F78292300EAF8C3 /* SelectAddressVC.h */,
+				FA7B70C61F78292300EAF8C3 /* SelectAddressVC.m */,
+				FA7B70C81F78293F00EAF8C3 /* AddressCell.h */,
+				FA7B70C91F78293F00EAF8C3 /* AddressCell.m */,
+			);
+			name = "Select Address VC";
+			sourceTree = "<group>";
+		};
+		FA7B70CB1F78295400EAF8C3 /* Restaurant VC */ = {
+			isa = PBXGroup;
+			children = (
+				FA7B70CC1F78297A00EAF8C3 /* RestaurantVC.h */,
+				FA7B70CD1F78297A00EAF8C3 /* RestaurantVC.m */,
+				FA7B70CF1F78299C00EAF8C3 /* RestaurantCourseCell.h */,
+				FA7B70D01F78299C00EAF8C3 /* RestaurantCourseCell.m */,
+				FA7B70D21F7829AA00EAF8C3 /* CourseDetailCell.h */,
+				FA7B70D31F7829AA00EAF8C3 /* CourseDetailCell.m */,
+			);
+			name = "Restaurant VC";
+			sourceTree = "<group>";
+		};
+		FA7B70D51F783EC100EAF8C3 /* FAQVC */ = {
+			isa = PBXGroup;
+			children = (
+				FA7B70D61F7840E800EAF8C3 /* FAQVC.h */,
+				FA7B70D71F7840E800EAF8C3 /* FAQVC.m */,
+			);
+			name = FAQVC;
+			sourceTree = "<group>";
+		};
+		FA9B9CB11F757043004DA5C8 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				FA7B70D51F783EC100EAF8C3 /* FAQVC */,
+				FA7B70CB1F78295400EAF8C3 /* Restaurant VC */,
+				FA7B70C41F78290E00EAF8C3 /* Select Address VC */,
+				FA7B70BC1F7822A300EAF8C3 /* About Foodna VC */,
+				FA7B70B81F77FCB500EAF8C3 /* Settings VC */,
+				FA092D3E1F77C4AB00F744ED /* Login VC */,
+				FA9B9CBA1F7571C8004DA5C8 /* Filter VC */,
+				FA9B9CB61F7571B1004DA5C8 /* Order VC */,
+				FA9B9CB21F757056004DA5C8 /* Home VC */,
+			);
+			name = "View Controllers";
+			sourceTree = "<group>";
+		};
+		FA9B9CB21F757056004DA5C8 /* Home VC */ = {
+			isa = PBXGroup;
+			children = (
+				FA9B9CB31F757074004DA5C8 /* HomeVC.h */,
+				FA9B9CB41F757074004DA5C8 /* HomeVC.m */,
+				FA9B9CBE1F7573E9004DA5C8 /* HomeCell.h */,
+				FA9B9CBF1F7573E9004DA5C8 /* HomeCell.m */,
+				FA9B9CC11F7574E7004DA5C8 /* Jacks_Creek_BURGER_by_Gold_Coast_Brisbane_Food_Photographer_Paul_Williams.png */,
+			);
+			name = "Home VC";
+			sourceTree = "<group>";
+		};
+		FA9B9CB61F7571B1004DA5C8 /* Order VC */ = {
+			isa = PBXGroup;
+			children = (
+				FA9B9CB71F7571C1004DA5C8 /* OrderVC.h */,
+				FA9B9CB81F7571C1004DA5C8 /* OrderVC.m */,
+				FA9B9CC31F757A66004DA5C8 /* OrderCell.h */,
+				FA9B9CC41F757A66004DA5C8 /* OrderCell.m */,
+			);
+			name = "Order VC";
+			sourceTree = "<group>";
+		};
+		FA9B9CBA1F7571C8004DA5C8 /* Filter VC */ = {
+			isa = PBXGroup;
+			children = (
+				FA9B9CBB1F7571E0004DA5C8 /* FilterVC.h */,
+				FA9B9CBC1F7571E0004DA5C8 /* FilterVC.m */,
+				FA9B9CE21F758CCD004DA5C8 /* FilterCell.h */,
+				FA9B9CE31F758CCD004DA5C8 /* FilterCell.m */,
+			);
+			name = "Filter VC";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -323,16 +609,30 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA9B9CDB1F757F76004DA5C8 /* MontserratAlternates-ExtraBold.otf in Resources */,
+				FA9B9CD51F757F76004DA5C8 /* Montserrat-Medium.otf in Resources */,
 				FA18A1131F72F50500744551 /* Montserrat-Black.otf in Resources */,
 				FA18A1141F72F50500744551 /* Montserrat-Bold.otf in Resources */,
 				FA18A1151F72F50500744551 /* Montserrat-ExtraBold.otf in Resources */,
+				FA9B9CC21F7574E7004DA5C8 /* Jacks_Creek_BURGER_by_Gold_Coast_Brisbane_Food_Photographer_Paul_Williams.png in Resources */,
+				FA9B9CD61F757F76004DA5C8 /* Montserrat-Regular.otf in Resources */,
+				FA9B9CDF1F757F76004DA5C8 /* MontserratAlternates-Regular.otf in Resources */,
 				FA18A1161F72F50500744551 /* Montserrat-ExtraLight.otf in Resources */,
 				FA18A1171F72F50500744551 /* Montserrat-Light.otf in Resources */,
 				FA18A1181F72F50500744551 /* NeoSansArabic-Bold.ttf in Resources */,
+				FA9B9CD81F757F76004DA5C8 /* Montserrat-Thin.otf in Resources */,
+				FA9B9CD71F757F76004DA5C8 /* Montserrat-SemiBold.otf in Resources */,
+				FA9B9CD91F757F76004DA5C8 /* MontserratAlternates-Black.otf in Resources */,
+				FA9B9CE11F757F76004DA5C8 /* MontserratAlternates-Thin.otf in Resources */,
 				FA18A1191F72F50500744551 /* NeoSansArabic-Medium.ttf in Resources */,
 				FA6DB88A1F7248CA00305E49 /* LaunchScreen.storyboard in Resources */,
+				FA9B9CDD1F757F76004DA5C8 /* MontserratAlternates-Light.otf in Resources */,
+				FA9B9CDE1F757F76004DA5C8 /* MontserratAlternates-Medium.otf in Resources */,
+				FA9B9CE01F757F76004DA5C8 /* MontserratAlternates-SemiBold.otf in Resources */,
 				FA6DB8871F7248CA00305E49 /* Assets.xcassets in Resources */,
 				FA1D85A01F72C1BD005908F0 /* podfile in Resources */,
+				FA9B9CDC1F757F76004DA5C8 /* MontserratAlternates-ExtraLight.otf in Resources */,
+				FA9B9CDA1F757F76004DA5C8 /* MontserratAlternates-Bold.otf in Resources */,
 				FA6DB8851F7248CA00305E49 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -406,15 +706,37 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA092D381F77B1AF00F744ED /* SideMenuViewController.m in Sources */,
 				FA6DB8B61F724C7A00305E49 /* Montserrat-Black.otf in Sources */,
+				FA7B70BF1F7822B900EAF8C3 /* AboutFoodnaVC.m in Sources */,
 				FA6DB8B71F724C7A00305E49 /* Montserrat-Bold.otf in Sources */,
 				FA6DB8B81F724C7A00305E49 /* Montserrat-ExtraBold.otf in Sources */,
+				FA7B70D41F7829AA00EAF8C3 /* CourseDetailCell.m in Sources */,
+				FA7B70C31F7828EB00EAF8C3 /* HVTableView.m in Sources */,
+				FA092D3D1F77B9B400F744ED /* MenuCell.m in Sources */,
+				FA7B70D11F78299C00EAF8C3 /* RestaurantCourseCell.m in Sources */,
 				FA6DB8B91F724C7A00305E49 /* Montserrat-ExtraLight.otf in Sources */,
+				FA092D551F77D35600F744ED /* UIViewController+MFSideMenuAdditions.m in Sources */,
 				FA6DB8BA1F724C7A00305E49 /* Montserrat-Light.otf in Sources */,
+				FA9B9CB91F7571C1004DA5C8 /* OrderVC.m in Sources */,
 				FA6DB8BB1F724C7A00305E49 /* NeoSansArabic-Bold.ttf in Sources */,
+				FA9B9CB51F757074004DA5C8 /* HomeVC.m in Sources */,
 				FA6DB8BC1F724C7A00305E49 /* NeoSansArabic-Medium.ttf in Sources */,
+				FA9B9CC51F757A66004DA5C8 /* OrderCell.m in Sources */,
 				FA6DB8821F7248CA00305E49 /* ViewController.m in Sources */,
+				FA092D531F77D35600F744ED /* MFSideMenuContainerViewController.m in Sources */,
+				FA7B70D81F7840E800EAF8C3 /* FAQVC.m in Sources */,
+				FA092D541F77D35600F744ED /* MFSideMenuShadow.m in Sources */,
+				FA9B9CBD1F7571E0004DA5C8 /* FilterVC.m in Sources */,
+				FA7B70C71F78292300EAF8C3 /* SelectAddressVC.m in Sources */,
+				FA7B70BB1F78001D00EAF8C3 /* SettingsVC.m in Sources */,
 				FA6DB87F1F7248CA00305E49 /* AppDelegate.m in Sources */,
+				FA9B9CE41F758CCD004DA5C8 /* FilterCell.m in Sources */,
+				FA092D2C1F77B06A00F744ED /* HCSStarRatingView.m in Sources */,
+				FA9B9CC01F7573E9004DA5C8 /* HomeCell.m in Sources */,
+				FA7B70CE1F78297A00EAF8C3 /* RestaurantVC.m in Sources */,
+				FA092D411F77C4C900F744ED /* LoginVC.m in Sources */,
+				FA7B70CA1F78293F00EAF8C3 /* AddressCell.m in Sources */,
 				FA6DB87C1F7248CA00305E49 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

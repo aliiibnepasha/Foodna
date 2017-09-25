@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		AzIFrVq/InaHT08h3K/cn5/Ou1c=
+		xrVarTP5gz/AE4WTytB+LMPcmLo=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		RovkKOaeOaFF62KeTHiaChwOXnQ=
+		M+aup0DUjlqfGLGX1I8waWek1go=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -18,47 +18,107 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		jmExQHgVEc3wP4fa5kAQgmLY1qE=
+		uYZm3+oPN4GwIgnzstncNCtTV4A=
+		</data>
+		<key>Base.lproj/Main.storyboardc/7OK-rX-s97-view-Yea-7d-NHd.nib</key>
+		<data>
+		HyrkivLwjVIc+DkdI0QHnZ/o5+s=
+		</data>
+		<key>Base.lproj/Main.storyboardc/923-LU-jpS-view-hte-4Z-VRE.nib</key>
+		<data>
+		5XO1N9Q7xN6NzcaI0DHYsXRU/+w=
+		</data>
+		<key>Base.lproj/Main.storyboardc/AboutFoodnaVC.nib</key>
+		<data>
+		YxAOx42bmX+HN//zP6014d/CVJM=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		TLW9T7gcHz1X+eSTzjEoyIrixYM=
+		gk1e4EW9hfZmWfFUT1aOffIj42M=
+		</data>
+		<key>Base.lproj/Main.storyboardc/Br0-if-xld-view-a0e-os-h1y.nib</key>
+		<data>
+		q6UFF/keuHuXjpoXMegOAsWEYnQ=
 		</data>
 		<key>Base.lproj/Main.storyboardc/DOR-IJ-L4i-view-dZX-m2-AGg.nib</key>
 		<data>
-		w9Pi+Ts89c/97/ERJU6YG+Os+vs=
+		Qhmfqw4qBdnqwSype/9nmUmfam8=
+		</data>
+		<key>Base.lproj/Main.storyboardc/FAQVC.nib</key>
+		<data>
+		mkI0sRKWEPTPeklOnexNuQjBdFw=
+		</data>
+		<key>Base.lproj/Main.storyboardc/FZR-Cw-W3F-view-lkm-Rp-FVO.nib</key>
+		<data>
+		VmS1Lu1OydhojnwejLvjKC/fNNk=
+		</data>
+		<key>Base.lproj/Main.storyboardc/HomeVC.nib</key>
+		<data>
+		1OyQ/1vaShU+ZraY61V4rQ9HN7A=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		6QfQYGh30LbiMqvRSdhb9sSAzYg=
+		0dENRMpNbHRLnciYkedRIZEptwA=
+		</data>
+		<key>Base.lproj/Main.storyboardc/J21-Jv-fSl-view-IWQ-mo-j3Q.nib</key>
+		<data>
+		AE8V73+mPjdKURi1yOM+S3tk6oo=
+		</data>
+		<key>Base.lproj/Main.storyboardc/RestaurantVC.nib</key>
+		<data>
+		95YLPBFMDFgV7z8b+ULYrljfJVQ=
+		</data>
+		<key>Base.lproj/Main.storyboardc/SelectAddressVC.nib</key>
+		<data>
+		G9MaRWr7Sw8MKQ/vwwCDnhtHDTI=
+		</data>
+		<key>Base.lproj/Main.storyboardc/SettingsVC.nib</key>
+		<data>
+		8roJV1JXf3CyeXLPsxiq3fM8pqw=
+		</data>
+		<key>Base.lproj/Main.storyboardc/SideMenuViewController.nib</key>
+		<data>
+		GmUMWYd/WmoOx21W4/gCknPz7LM=
+		</data>
+		<key>Base.lproj/Main.storyboardc/UIViewController-7OK-rX-s97.nib</key>
+		<data>
+		fmojGjZntRve20c5EGokleX3O6M=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		NfsNm7SHGrO9V2Bt4nNxSXMjxxY=
+		Qj7r4dQYtewUfm3r06VljFBVCGc=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-DOR-IJ-L4i.nib</key>
 		<data>
-		92d6XvvCWYnwIR6O5/TigNeenXo=
+		qA7kSwR/sQGYHR9kqFYTlbwfHMw=
 		</data>
-		<key>Base.lproj/Main.storyboardc/UIViewController-UqZ-LY-bxs.nib</key>
+		<key>Base.lproj/Main.storyboardc/UIViewController-yHM-Is-g6G.nib</key>
 		<data>
-		nbvPUaH9dE2VCqjO0O9fdyIohyY=
+		x0P5UWZm+p3Xs5X1kCitmbkZh98=
 		</data>
-		<key>Base.lproj/Main.storyboardc/UIViewController-gVu-KS-HnC.nib</key>
+		<key>Base.lproj/Main.storyboardc/UIh-Oy-YuD-view-yDZ-Qd-yyT.nib</key>
 		<data>
-		r1rZ/u6ZulOf3zZgCpuSUJHfgL0=
+		egvHbiaVzRulnh0sHrR8/uX6FzY=
 		</data>
-		<key>Base.lproj/Main.storyboardc/UqZ-LY-bxs-view-an7-ex-DtG.nib</key>
+		<key>Base.lproj/Main.storyboardc/l6c-sG-Vek-view-wCe-7O-Ouq.nib</key>
 		<data>
-		3GUf5l107NmxuA6bqEJ8Nm/56JY=
+		HmOQK0HU7Rph3xvofABjz99jAfs=
 		</data>
-		<key>Base.lproj/Main.storyboardc/gVu-KS-HnC-view-5e7-DT-Jd6.nib</key>
+		<key>Base.lproj/Main.storyboardc/mhe-ak-4LA-view-mqD-9E-fJc.nib</key>
 		<data>
-		bC4XN7dyKEa64wcHQsh9JfqGRyU=
+		eu6HK0HYmZ5xolPdfn27YPv5zbQ=
+		</data>
+		<key>Base.lproj/Main.storyboardc/yHM-Is-g6G-view-n4s-2h-aP8.nib</key>
+		<data>
+		0b1L0fvCyZ7iEUHu8oDBCMahwRw=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		9ZMCLDFPe7BKWKTlG3tnFXXPtQg=
+		UweSU2myOahqwgqsBsOCwMeDgf4=
+		</data>
+		<key>Jacks_Creek_BURGER_by_Gold_Coast_Brisbane_Food_Photographer_Paul_Williams.png</key>
+		<data>
+		gpLKDsOgX/WCxVaIFrYtBDHETjU=
 		</data>
 		<key>MBCircularProgressBar.bundle/Info.plist</key>
 		<data>
@@ -108,6 +168,58 @@
 		<data>
 		9KQACRzGF2mY8oYLz6kp+KzTAss=
 		</data>
+		<key>Montserrat-Medium.otf</key>
+		<data>
+		QUwrMOoHUR72hbUpbaVCgcgglG0=
+		</data>
+		<key>Montserrat-Regular.otf</key>
+		<data>
+		i4WoQyA2XAXohVfgiT5V7F06J4g=
+		</data>
+		<key>Montserrat-SemiBold.otf</key>
+		<data>
+		VYwMaKoQJQtD2mj30x/IpFN3T0k=
+		</data>
+		<key>Montserrat-Thin.otf</key>
+		<data>
+		ThRvfu4stiSc5pIu2kAP2kWeJl0=
+		</data>
+		<key>MontserratAlternates-Black.otf</key>
+		<data>
+		KhwxWs8AbznL8D8naKWitXR0W04=
+		</data>
+		<key>MontserratAlternates-Bold.otf</key>
+		<data>
+		TXwx/fPTG2ytv0T16K/wQZ/Qgk4=
+		</data>
+		<key>MontserratAlternates-ExtraBold.otf</key>
+		<data>
+		w9S7YydZMaPKZYf2P2kRXgifdT4=
+		</data>
+		<key>MontserratAlternates-ExtraLight.otf</key>
+		<data>
+		6d79laRclE0g01LE3tqgxkAC1Ps=
+		</data>
+		<key>MontserratAlternates-Light.otf</key>
+		<data>
+		GslsfLUEJvIKrx80wjNYNdf13uo=
+		</data>
+		<key>MontserratAlternates-Medium.otf</key>
+		<data>
+		ojSS5qRxHpaHreWYF8czSm6DDG0=
+		</data>
+		<key>MontserratAlternates-Regular.otf</key>
+		<data>
+		I73Uk8+JriwQOOO6d62GuymouzA=
+		</data>
+		<key>MontserratAlternates-SemiBold.otf</key>
+		<data>
+		Uph1PWJEwQtqBi2Rg3jIix1XlDs=
+		</data>
+		<key>MontserratAlternates-Thin.otf</key>
+		<data>
+		rWRLG1o8w3aL4BTDEcfIzXSwIUw=
+		</data>
 		<key>NeoSansArabic-Bold.ttf</key>
 		<data>
 		b+G3KmK98popjxJEooj1FnmZ7Yo=
@@ -131,22 +243,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AzIFrVq/InaHT08h3K/cn5/Ou1c=
+			xrVarTP5gz/AE4WTytB+LMPcmLo=
 			</data>
 			<key>hash2</key>
 			<data>
-			OjViQGacrXBMGFDQp5pR96l43lYujfa9Id+ztctcgqc=
+			+7LjpK41LOwqIYGB39aDISsZeu8oqTNcdBPGn7viLuQ=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RovkKOaeOaFF62KeTHiaChwOXnQ=
+			M+aup0DUjlqfGLGX1I8waWek1go=
 			</data>
 			<key>hash2</key>
 			<data>
-			ML9ugwzGqztjXif/9Qbs2Lw0jwCESVMQtrczIfVrUCg=
+			V4syN4cgJlzihAaV9s13nn9l9piIA9eFueMApfkz8CU=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -164,110 +276,275 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jmExQHgVEc3wP4fa5kAQgmLY1qE=
+			uYZm3+oPN4GwIgnzstncNCtTV4A=
 			</data>
 			<key>hash2</key>
 			<data>
-			LH/R2EWEM/zTI8vkaqY46H9GDGiVsCWdPJWvnJYZ+eI=
+			macX3QqUtJO1plyFx+wnwnPF4Af+8Wq7gRKHUcUSAdA=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/7OK-rX-s97-view-Yea-7d-NHd.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HyrkivLwjVIc+DkdI0QHnZ/o5+s=
+			</data>
+			<key>hash2</key>
+			<data>
+			UbhA6Qt0jxcFOTMj0kL/GX+K3LHzhGQ5NfGkwyxPcJY=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/923-LU-jpS-view-hte-4Z-VRE.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5XO1N9Q7xN6NzcaI0DHYsXRU/+w=
+			</data>
+			<key>hash2</key>
+			<data>
+			kTJ6ERs68He5uoDVdglJVXLll8tDlSEpTVod5iqgQzE=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/AboutFoodnaVC.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YxAOx42bmX+HN//zP6014d/CVJM=
+			</data>
+			<key>hash2</key>
+			<data>
+			Vip5hTG7oj7Hdk4luTk0TQsu3sTioe463c84y+bFVEE=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TLW9T7gcHz1X+eSTzjEoyIrixYM=
+			gk1e4EW9hfZmWfFUT1aOffIj42M=
 			</data>
 			<key>hash2</key>
 			<data>
-			PH04xRAM4O4VaTowOT3zjqSVLSL8j1Jmts5kVgNq6iU=
+			TFUg1BHisUge8cCed+rKL0i/IypU1P1g6vnzn16zzp4=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/Br0-if-xld-view-a0e-os-h1y.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q6UFF/keuHuXjpoXMegOAsWEYnQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			pxGKT0zTWV9dLrz3qcufP3GCQE4x3qhNuIuS3QvKGOM=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/DOR-IJ-L4i-view-dZX-m2-AGg.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			w9Pi+Ts89c/97/ERJU6YG+Os+vs=
+			Qhmfqw4qBdnqwSype/9nmUmfam8=
 			</data>
 			<key>hash2</key>
 			<data>
-			oRwVRgVD9Wa6ZhR4Gn2cukmh/vRmHeNs/DRggt1m1Fs=
+			k+Y3VPu9H7p/lVYCyOd6X5Wc4K9os6/YWrvbM7Gr++o=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/FAQVC.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mkI0sRKWEPTPeklOnexNuQjBdFw=
+			</data>
+			<key>hash2</key>
+			<data>
+			9arD0vhxfiEzWlv1j6oLRyVyrlYbiN3iyCxOQbwswg8=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/FZR-Cw-W3F-view-lkm-Rp-FVO.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VmS1Lu1OydhojnwejLvjKC/fNNk=
+			</data>
+			<key>hash2</key>
+			<data>
+			YI4t1/nrfqlGdH9saPdNvSMOS8uWHiNJoisErxsNBrQ=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/HomeVC.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1OyQ/1vaShU+ZraY61V4rQ9HN7A=
+			</data>
+			<key>hash2</key>
+			<data>
+			G5eHH9E3Mu0W4pgWIphTMMOyYxb7hLY3Px38jptjhBw=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6QfQYGh30LbiMqvRSdhb9sSAzYg=
+			0dENRMpNbHRLnciYkedRIZEptwA=
 			</data>
 			<key>hash2</key>
 			<data>
-			sxBtgYvkVyhnBWBQKZa0ex0ouoUIxEghSflRnUyRrbQ=
+			0yyuzJcqVa/ZduMUEGx23aUwDZp6kL3hYO0q4RUrwCo=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/J21-Jv-fSl-view-IWQ-mo-j3Q.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AE8V73+mPjdKURi1yOM+S3tk6oo=
+			</data>
+			<key>hash2</key>
+			<data>
+			CoOv18BadcWr06DLMJMPVOWX/8skUYRTRDGlRFuxT5o=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/RestaurantVC.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			95YLPBFMDFgV7z8b+ULYrljfJVQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			0+e4FO1D3Mn9rreQb6ROIg5GhNz+Q0MF7yKPpBUMWDE=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/SelectAddressVC.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			G9MaRWr7Sw8MKQ/vwwCDnhtHDTI=
+			</data>
+			<key>hash2</key>
+			<data>
+			SSYBYB02KsT1uxZmHuEd5RIONaMqP31ZN+ykN4wZaoo=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/SettingsVC.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8roJV1JXf3CyeXLPsxiq3fM8pqw=
+			</data>
+			<key>hash2</key>
+			<data>
+			RH4vROhMxKnL0xn9QoueTfJAt1ZRitRRFk0FHeJGkZM=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/SideMenuViewController.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GmUMWYd/WmoOx21W4/gCknPz7LM=
+			</data>
+			<key>hash2</key>
+			<data>
+			3bflatxY1FwpGrPrTAZJwgDeCAagvYGWWu+wG9dkNvk=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/UIViewController-7OK-rX-s97.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fmojGjZntRve20c5EGokleX3O6M=
+			</data>
+			<key>hash2</key>
+			<data>
+			k47847RF5ywRma2npHvFd6IwDOVAtuN3DX2RUas9Nog=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NfsNm7SHGrO9V2Bt4nNxSXMjxxY=
+			Qj7r4dQYtewUfm3r06VljFBVCGc=
 			</data>
 			<key>hash2</key>
 			<data>
-			2LWPrQFD83Jbm7fnFja70/g00v4gUpEmQ/gzh2cfwL0=
+			vFn0FP0fqCkGbYy0A28HVjlqHbnRCIXudY2hXIOIsMc=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UIViewController-DOR-IJ-L4i.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			92d6XvvCWYnwIR6O5/TigNeenXo=
+			qA7kSwR/sQGYHR9kqFYTlbwfHMw=
 			</data>
 			<key>hash2</key>
 			<data>
-			PjyqNtzaAL8vIUS/jwWRl0S4Hv/A6ex6qYSsPitiXSA=
+			PPziPt97eBnOki78w0nT0x1eEH5BhsQ2aaCybyrcShQ=
 			</data>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/UIViewController-UqZ-LY-bxs.nib</key>
+		<key>Base.lproj/Main.storyboardc/UIViewController-yHM-Is-g6G.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nbvPUaH9dE2VCqjO0O9fdyIohyY=
+			x0P5UWZm+p3Xs5X1kCitmbkZh98=
 			</data>
 			<key>hash2</key>
 			<data>
-			AV/eXZiEmJn75hNOSV5DqjL0Gr9e6Cr3m/3dRYXBbUQ=
+			lkKf64cK1mjdmFlXVSzqsGwQr2F9sZE8qmN1GBmaYFg=
 			</data>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/UIViewController-gVu-KS-HnC.nib</key>
+		<key>Base.lproj/Main.storyboardc/UIh-Oy-YuD-view-yDZ-Qd-yyT.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			r1rZ/u6ZulOf3zZgCpuSUJHfgL0=
+			egvHbiaVzRulnh0sHrR8/uX6FzY=
 			</data>
 			<key>hash2</key>
 			<data>
-			X3ie4vL2j4+mXx+Ixt9tNahENFICLxpHMovZIDah+nA=
+			xILKb0GpbCMXw9ZYe+U2GqX6ymQf7vmswLZOfCGWkIE=
 			</data>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/UqZ-LY-bxs-view-an7-ex-DtG.nib</key>
+		<key>Base.lproj/Main.storyboardc/l6c-sG-Vek-view-wCe-7O-Ouq.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3GUf5l107NmxuA6bqEJ8Nm/56JY=
+			HmOQK0HU7Rph3xvofABjz99jAfs=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ya9JMc4UQBjkexosZ54vRX+1DOOgQv5e5uPx1cGT5XU=
+			OV5W6/V8Cih10LQ8cO/avXBDGSduU0kh4oQbwPr6RsU=
 			</data>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/gVu-KS-HnC-view-5e7-DT-Jd6.nib</key>
+		<key>Base.lproj/Main.storyboardc/mhe-ak-4LA-view-mqD-9E-fJc.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bC4XN7dyKEa64wcHQsh9JfqGRyU=
+			eu6HK0HYmZ5xolPdfn27YPv5zbQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			sF4NHAwWU/fGIknvd6K7VaUheIy4dHTQihhs3soxBq8=
+			WXM3LerjAiHADv8vdPydWyJNZxj32yGo2uCd+pqsfj8=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/yHM-Is-g6G-view-n4s-2h-aP8.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0b1L0fvCyZ7iEUHu8oDBCMahwRw=
+			</data>
+			<key>hash2</key>
+			<data>
+			y1niaxz1O/mAaMtrWNYPm/zD3s9x+UMMpoaZSEBaWjY=
+			</data>
+		</dict>
+		<key>Jacks_Creek_BURGER_by_Gold_Coast_Brisbane_Food_Photographer_Paul_Williams.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gpLKDsOgX/WCxVaIFrYtBDHETjU=
+			</data>
+			<key>hash2</key>
+			<data>
+			+ymww0j5nDx2Hhj4ZIyY2Uy8QwSilF9XEOnQQUBbjCY=
 			</data>
 		</dict>
 		<key>MBCircularProgressBar.bundle/Info.plist</key>
@@ -400,6 +677,149 @@
 			<key>hash2</key>
 			<data>
 			VRHzeH4NMtb4GP4xIDLXIe/ujvK2qSQN1Gif5H2FSEw=
+			</data>
+		</dict>
+		<key>Montserrat-Medium.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QUwrMOoHUR72hbUpbaVCgcgglG0=
+			</data>
+			<key>hash2</key>
+			<data>
+			KdqQQWdwENJsjtIpGSVkkYFCFuCvY5eDBdbL2arhjGc=
+			</data>
+		</dict>
+		<key>Montserrat-Regular.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			i4WoQyA2XAXohVfgiT5V7F06J4g=
+			</data>
+			<key>hash2</key>
+			<data>
+			Fncvohn3tAcIuNV3mVJQX7JjyGXSm/hDfBxFexvC96o=
+			</data>
+		</dict>
+		<key>Montserrat-SemiBold.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VYwMaKoQJQtD2mj30x/IpFN3T0k=
+			</data>
+			<key>hash2</key>
+			<data>
+			Q2/IMxb1xUvsdCzc2fLApd1cJwZk7BKBevjr9o4nxsQ=
+			</data>
+		</dict>
+		<key>Montserrat-Thin.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ThRvfu4stiSc5pIu2kAP2kWeJl0=
+			</data>
+			<key>hash2</key>
+			<data>
+			CjWTT9HcG3Jhlyvhajg/E8BrtvkgJmPnMoDJGHVbbis=
+			</data>
+		</dict>
+		<key>MontserratAlternates-Black.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KhwxWs8AbznL8D8naKWitXR0W04=
+			</data>
+			<key>hash2</key>
+			<data>
+			h/DH7rbVfdxxKA6jfRuFNlmZpd+pSL4hnJs/6X33Mwg=
+			</data>
+		</dict>
+		<key>MontserratAlternates-Bold.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TXwx/fPTG2ytv0T16K/wQZ/Qgk4=
+			</data>
+			<key>hash2</key>
+			<data>
+			Tw9P4PteBfez1Y9OIa7zU/rY1YFSNXQ64x3/mXNZPT8=
+			</data>
+		</dict>
+		<key>MontserratAlternates-ExtraBold.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			w9S7YydZMaPKZYf2P2kRXgifdT4=
+			</data>
+			<key>hash2</key>
+			<data>
+			78l8nhEe8JyTiaryoWxkxrgCrFlj0jOreJard+JjKmc=
+			</data>
+		</dict>
+		<key>MontserratAlternates-ExtraLight.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6d79laRclE0g01LE3tqgxkAC1Ps=
+			</data>
+			<key>hash2</key>
+			<data>
+			rhhzQ5WEXaw7XGwGAGopU8l7NobvuC3Y4Eh5Ex+BEK8=
+			</data>
+		</dict>
+		<key>MontserratAlternates-Light.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GslsfLUEJvIKrx80wjNYNdf13uo=
+			</data>
+			<key>hash2</key>
+			<data>
+			Oe2zcG6r3yC76eHaHtNwlBv9zCoqWcsoP8n96nwjP1c=
+			</data>
+		</dict>
+		<key>MontserratAlternates-Medium.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ojSS5qRxHpaHreWYF8czSm6DDG0=
+			</data>
+			<key>hash2</key>
+			<data>
+			r/tj6Iv/V0c/4tGmmd/2joLwjdNfle9tsIPahNJDxtE=
+			</data>
+		</dict>
+		<key>MontserratAlternates-Regular.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			I73Uk8+JriwQOOO6d62GuymouzA=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZgIb/Y+lqZYUcik6Qp2KSXM093jYsgeytr57AUKRArY=
+			</data>
+		</dict>
+		<key>MontserratAlternates-SemiBold.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Uph1PWJEwQtqBi2Rg3jIix1XlDs=
+			</data>
+			<key>hash2</key>
+			<data>
+			S5f4ppI75VOXnYvshcgCzqvZ1zHNlVx3l9xRccZhcpg=
+			</data>
+		</dict>
+		<key>MontserratAlternates-Thin.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rWRLG1o8w3aL4BTDEcfIzXSwIUw=
+			</data>
+			<key>hash2</key>
+			<data>
+			C5VvSXnhMEN4JJyJ61eg1aeEF5BkdCu1kjftKrRZB3g=
 			</data>
 		</dict>
 		<key>NeoSansArabic-Bold.ttf</key>
